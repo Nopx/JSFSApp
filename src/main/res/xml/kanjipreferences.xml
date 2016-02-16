@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+ 	<CheckBoxPreference
+		android:key="pref_KanjiLektion11"
+		android:title="Lektion 11"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion12"
+		android:title="Lektion 12"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion13"
+		android:title="Lektion 13"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion14"
+		android:title="Lektion 14"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion15"
+		android:title="Lektion 15"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion16"
+		android:title="Lektion 16"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion17"
+		android:title="Lektion 17"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion18"
+		android:title="Lektion 18"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion19"
+		android:title="Lektion 19"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion20"
+		android:title="Lektion 20"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion21"
+		android:title="Lektion 21"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion22"
+		android:title="Lektion 22"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion23"
+		android:title="Lektion 23"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion24"
+		android:title="Lektion 24"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion25"
+		android:title="Lektion 25"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion26"
+		android:title="Lektion 26"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion27"
+		android:title="Lektion 27"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion28"
+		android:title="Lektion 28"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion29"
+		android:title="Lektion 29"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion30"
+		android:title="Lektion 30"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion31"
+		android:title="Lektion 31"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion32"
+		android:title="Lektion 32"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion33"
+		android:title="Lektion 33"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion34"
+		android:title="Lektion 34"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion35"
+		android:title="Lektion 35"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion36"
+		android:title="Lektion 36"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion37"
+		android:title="Lektion 37"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion38"
+		android:title="Lektion 38"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion39"
+		android:title="Lektion 39"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion40"
+		android:title="Lektion 40"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion41"
+		android:title="Lektion 41"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion42"
+		android:title="Lektion 42"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion43"
+		android:title="Lektion 43"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion44"
+		android:title="Lektion 44"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion45"
+		android:title="Lektion 45"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion46"
+		android:title="Lektion 46"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion47"
+		android:title="Lektion 47"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion48"
+		android:title="Lektion 48"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion49"
+		android:title="Lektion 49"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_KanjiLektion50"
+		android:title="Lektion 50"
+		android:defaultValue="true" />
+
+
+</PreferenceScreen>

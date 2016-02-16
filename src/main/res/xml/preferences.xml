@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+   		<CheckBoxPreference
+		android:key="pref_Lektion1"
+		android:title="Lektion 1"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion2"
+		android:title="Lektion 2"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion3"
+		android:title="Lektion 3"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion4"
+		android:title="Lektion 4"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion5"
+		android:title="Lektion 5"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion6"
+		android:title="Lektion 6"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion7"
+		android:title="Lektion 7"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion8"
+		android:title="Lektion 8"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion9"
+		android:title="Lektion 9"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion10"
+		android:title="Lektion 10"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion11"
+		android:title="Lektion 11"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion12"
+		android:title="Lektion 12"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion13"
+		android:title="Lektion 13"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion14"
+		android:title="Lektion 14"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion15"
+		android:title="Lektion 15"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion16"
+		android:title="Lektion 16"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion17"
+		android:title="Lektion 17"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion18"
+		android:title="Lektion 18"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion19"
+		android:title="Lektion 19"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion20"
+		android:title="Lektion 20"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion21"
+		android:title="Lektion 21"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion22"
+		android:title="Lektion 22"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion23"
+		android:title="Lektion 23"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion24"
+		android:title="Lektion 24"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion25"
+		android:title="Lektion 25"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion26"
+		android:title="Lektion 26"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion27"
+		android:title="Lektion 27"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion28"
+		android:title="Lektion 28"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion29"
+		android:title="Lektion 29"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion30"
+		android:title="Lektion 30"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion31"
+		android:title="Lektion 31"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion32"
+		android:title="Lektion 32"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion33"
+		android:title="Lektion 33"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion34"
+		android:title="Lektion 34"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion35"
+		android:title="Lektion 35"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion36"
+		android:title="Lektion 36"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion37"
+		android:title="Lektion 37"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion38"
+		android:title="Lektion 38"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion39"
+		android:title="Lektion 39"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion40"
+		android:title="Lektion 40"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion41"
+		android:title="Lektion 41"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion42"
+		android:title="Lektion 42"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion43"
+		android:title="Lektion 43"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion44"
+		android:title="Lektion 44"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion45"
+		android:title="Lektion 45"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion46"
+		android:title="Lektion 46"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion47"
+		android:title="Lektion 47"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion48"
+		android:title="Lektion 48"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion49"
+		android:title="Lektion 49"
+		android:defaultValue="true" />
+
+	<CheckBoxPreference
+		android:key="pref_Lektion50"
+		android:title="Lektion 50"
+		android:defaultValue="true" />
+
+
+</PreferenceScreen>

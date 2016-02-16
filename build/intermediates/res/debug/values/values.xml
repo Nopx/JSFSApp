@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/bernie/Android/projects/VocabApp/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">VocabApp</string>
+    <string name="gerHirBtn_string">Deutsch -> Hiragana</string>
+    <string name="gerJapBtn_string">Deutsch -> Romaji</string>
+    <string name="gerKanjiBtn_string">Deutsch -> Kanji</string>
+    <string name="hirGerBtn_string">Hiragana -> Deutsch</string>
+    <string name="japGerBtn_string">Romaji -> Deutsch</string>
+    <string name="kanjiGerBtn_string">Kanji -> Deutsch</string>
+    <string name="kanjiKUNBtn_string">Kanji -> KUN-Lesung</string>
+    <string name="kanjiONBtn_string">Kanji -> ON-Lesung</string>
+    <string name="kanjiQuizBtn_string">KanjiQuiz</string>
+    <string name="kunKanjiBtn_string">KUN-Lesung -> Kanji</string>
+    <string name="quizname1">japGer</string>
+    <string name="quizname2">gerJap</string>
+    <string name="quizname3">hirGer</string>
+    <string name="quizname4">gerHir</string>
+    <string name="quizname5">kanjiGer</string>
+    <string name="quizname6">gerKanji</string>
+    <string name="quizname7">kanjiKUN</string>
+    <string name="quizname8">kunKanji</string>
+    <string name="quizname9">kanjiON</string>
+
+</resources>

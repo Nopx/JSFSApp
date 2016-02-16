@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/bernie/Android/projects/VocabApp/build/intermediates/pre-dexed/debug/support-v4-18.0.0-ba2c6044021b9ecd19226cb71d66464c3c03ea30.jar"
+        jar="/home/bernie/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+
+</pre-dex-items>

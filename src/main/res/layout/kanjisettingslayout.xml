@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <Button android:id="@+id/selectAllBtn"
+		android:layout_width="fill_parent"
+		android:layout_height="45sp"
+		android:text="Alle auswählen"
+		android:textSize="20sp"
+		android:layout_below="@+id/question"
+		android:onClick="selectAll"
+    />
+    <Button android:id="@+id/deselectAllBtn"
+		android:layout_width="fill_parent"
+		android:layout_height="45sp"
+		android:text="Nichts auswählen"
+		android:textSize="20sp"
+		android:layout_below="@+id/selectAllBtn"
+		android:onClick="deselectAll"
+    />
+    <fragment android:name="org.nopx.vocabapp.settings.KanjiSettingsFragment"
+			android:id="@+id/settingsfragment"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent" 
+			android:layout_below="@+id/deselectAllBtn"
+			android:paddingTop="90sp" 
+	/>
+</RelativeLayout>
+

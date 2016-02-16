@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/bernie/Android/projects/VocabApp/src/main/res" >
+            <file
+                name="settings"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/drawable-xhdpi/settings.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="flashcard"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/layout/flashcard.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="kanjisettingslayout"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/layout/kanjisettingslayout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="quiz"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/layout/quiz.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="settingslayout"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/layout/settingslayout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="actionbar"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/menu/actionbar.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="settings"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/drawable-mdpi/settings.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="settings"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/drawable-hdpi/settings.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="gerHirBtn_string" >Deutsch -> Hiragana
+                </string>
+                <string name="japGerBtn_string" >Romaji -> Deutsch
+                </string>
+                <string name="gerJapBtn_string" >Deutsch -> Romaji
+                </string>
+                <string name="kanjiKUNBtn_string" >Kanji -> KUN-Lesung
+                </string>
+                <string name="kanjiONBtn_string" >Kanji -> ON-Lesung
+                </string>
+                <string name="gerKanjiBtn_string" >Deutsch -> Kanji
+                </string>
+                <string name="kanjiQuizBtn_string" >KanjiQuiz
+                </string>
+                <string name="quizname9" >kanjiON
+                </string>
+                <string name="quizname8" >kunKanji
+                </string>
+                <string name="kanjiGerBtn_string" >Kanji -> Deutsch
+                </string>
+                <string name="quizname7" >kanjiKUN
+                </string>
+                <string name="quizname6" >gerKanji
+                </string>
+                <string name="app_name" >VocabApp
+                </string>
+                <string name="quizname1" >japGer
+                </string>
+                <string name="kunKanjiBtn_string" >KUN-Lesung -> Kanji
+                </string>
+                <string name="quizname5" >kanjiGer
+                </string>
+                <string name="quizname4" >gerHir
+                </string>
+                <string name="quizname3" >hirGer
+                </string>
+                <string name="quizname2" >gerJap
+                </string>
+                <string name="hirGerBtn_string" >Hiragana -> Deutsch
+                </string>
+            </file>
+            <file
+                name="settings"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/drawable-ldpi/settings.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="kanjipreferences"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/xml/kanjipreferences.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                name="preferences"
+                path="/home/bernie/Android/projects/VocabApp/src/main/res/xml/preferences.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/home/bernie/Android/projects/VocabApp/build/generated/res/rs/debug" />
+        <source path="/home/bernie/Android/projects/VocabApp/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/bernie/Android/projects/VocabApp/src/debug/res" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="org.nopx.vocabapp"
+      android:versionCode="1"
+      android:versionName="1.0"
+      android:debuggable="true">
+    <application android:label="@string/app_name" android:icon="@drawable/ic_launcher">
+        <activity android:name="VocabApp"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+			android:name="org.nopx.vocabapp.QuizActivity"
+			android:label="@string/app_name"
+			android:parentActivityName="org.nopx.vocabapp.VocabApp">
+		</activity>
+        <activity
+			android:name="org.nopx.vocabapp.FlashCardActivity"
+			android:label="@string/app_name"
+			android:parentActivityName="org.nopx.vocabapp.VocabApp">
+		</activity>
+		<activity
+			android:name="org.nopx.vocabapp.settings.SettingsActivity"
+			android:label="@string/app_name">
+		</activity>
+        <activity
+			android:name="org.nopx.vocabapp.KanjiQuiz"
+			android:label="@string/app_name"
+			android:parentActivityName="org.nopx.vocabapp.VocabApp">
+		</activity>
+		<activity
+			android:name="org.nopx.vocabapp.settings.KanjiSettingsActivity"
+			android:label="@string/app_name">
+		</activity>
+    </application>
+</manifest>
