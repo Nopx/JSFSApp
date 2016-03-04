@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-	<string name="quizName">quizname</string>
-	<string name="lektionenList">lektionenList</string>
-	<string name="questionIndex">questionindex</string>
-	<string name="answerIndex">answerindex</string>
-
-</resources>

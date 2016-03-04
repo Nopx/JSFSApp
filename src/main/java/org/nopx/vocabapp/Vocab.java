@@ -60,7 +60,7 @@ public class Vocab{
 			lektion2.add(new String[]{"kaufen","kaimasu(5)","かいます(5)","verb"});
 			lektion2.add(new String[]{"sich ausruhen,Pause machen","yasumimasu(5)","やすみます(5)","nomen"});
 			lektion2.add(new String[]{"tun","shimasu(unr.)","します(unr.)","verb"});
-			lektion2.add(new String[]{"arbeiten","shigoto o shimasu","しごと お します","adjektiv"});
+			lektion2.add(new String[]{"arbeiten","shigoto o shimasu","しごと を します","adjektiv"});
 			lektion2.add(new String[]{"Kleidung,Kleider","fuku","ふく","nomen"});
 			lektion2.add(new String[]{"Buch","hon","ほん","nomen"});
 			lektion2.add(new String[]{"Zeitschrift","zasshi","ざっし","nomen"});
@@ -282,7 +282,7 @@ public class Vocab{
 			lektion14.add(new String[]{"Teller","o-sara","お-さら","nomen"});
 			lektion14.add(new String[]{"selbst, eigenständig","jibun de","じぶん で","adjektiv"});
 			lektion14.add(new String[]{"aufstehen (vom Bett)","okiru(1)","おきる(1)","nomen"});
-			lektion14.add(new String[]{"duschen","shawâ o abiru(1)","しゃわ~ お あびる(1)","verb"});
+			lektion14.add(new String[]{"duschen","shawâ o abiru(1)","しゃわ~ を あびる(1)","verb"});
 			lektion14.add(new String[]{"(Kleidung) anziehen","kiru(1)","きる(1)","nomen"});
 			lektion14.add(new String[]{"hinausgehen, verlassen","(...o) deru(1)","(...お) でる(1)","verb"});
 			lektion14.add(new String[]{"waschen, spülen","arau(5)","あらう(5)","verb"});
@@ -335,7 +335,7 @@ public class Vocab{
 			lektion17.add(new String[]{"in Ruhe, langsam","yukkuri","ゆっくり","nomen"});
 			lektion17.add(new String[]{"Berg(e)","yama","やま","nomen"});
 			lektion17.add(new String[]{"Fluss","kawa","かわ","nomen"});
-			lektion17.add(new String[]{"sich anziehen","fuku o kiru(1)","ふく お きる(1)","verb"});
+			lektion17.add(new String[]{"sich anziehen","fuku o kiru(1)","ふく を きる(1)","verb"});
 			lektion17.add(new String[]{"Bank (zum Sitzen)","benchi","べんち","nomen"});
 			lektion17.add(new String[]{"es regnet","ame ga furu(5)","あめ が ふる(5)","verb"});
 			lektion17.add(new String[]{"ankommen, eintreffen","tsuku(5)","つく(5)","verb"});
@@ -359,7 +359,7 @@ public class Vocab{
 			lektion18.add(new String[]{"Hausaufgaben","shukudai","しゅくだい","nomen"});
 			lektion18.add(new String[]{"Pause, Urlaub, Ferien","yasumi","休み","nomen"});
 			lektion18.add(new String[]{"streng","kibishii","きびしい","adjektiv"});
-			lektion18.add(new String[]{"aufpassen, achtgeben","ki o tsukeru(1)","気おつける(1)","verb"});
+			lektion18.add(new String[]{"aufpassen, achtgeben","ki o tsukeru(1)","気をつける(1)","verb"});
 			lektion18.add(new String[]{"antworten","kotaeru(1)","こたえる(1)","verb"});
 			lektion18.add(new String[]{"in Zukunft","kore kara","これ から","nomen"});
 			lektion18.add(new String[]{"Eiscreme","aisukurimu","あいすくりむ","nomen"});
@@ -390,7 +390,7 @@ public class Vocab{
 			lektion20.add(new String[]{"Waschmaschine","sentaku ki","せんたく き","nomen"});
 			lektion20.add(new String[]{"Kind","kodomo","こども","nomen"});
 			lektion20.add(new String[]{"(etw.) beginnen, anfangen","hajimeru(1)","はじめる(1)","verb"});
-			lektion20.add(new String[]{"sich unterhalten","hanashi o suru","話おする","verb"});
+			lektion20.add(new String[]{"sich unterhalten","hanashi o suru","話をする","verb"});
 			lektion20.add(new String[]{"früher","mukashi","むかし","adjektiv"});
 			lektion20.add(new String[]{"stark","tsuyoi","つよい","adjektiv"});
 			lektion20.add(new String[]{"Wind","kaze","かぜ","nomen"});
@@ -508,15 +508,89 @@ public class Vocab{
 		vocab.add(lektion25);
 
 		ArrayList<String[]> lektion26 = new ArrayList<String[]>();
+			lektion26.add(new String[]{"Kopf","atama","あたま","nomen"});
+			lektion26.add(new String[]{"Wald","mori","もり","nomen"});
+			lektion26.add(new String[]{"Adresse","juusho","じゅうしょ","nomen"});
+			lektion26.add(new String[]{"Straße","toori","とおり","nomen"});
+			lektion26.add(new String[]{"grün, Grün","midoriiro","みどりいろ","nomen"});
+			lektion26.add(new String[]{"Baum, Holz","ki","き","nomen"});
+			lektion26.add(new String[]{"Postamt","yuubinkyou","ゆうびんきょう","nomen"});
+			lektion26.add(new String[]{"Gast(geber)famillie","hosutofuamirî","ほすとふあみり~","nomen"});
+			lektion26.add(new String[]{"Internet","intânetto","いんた~ねっと","nomen"});
+			lektion26.add(new String[]{"Da ist es! (wörtl: Da war es!)","atta!","あった!","nomen"});
+			lektion26.add(new String[]{"sich auf ... freuen","wo tanoshimi ni suru","を たのしみ に する","adjektiv"});
+			lektion26.add(new String[]{"(nach)denken, überlegen","kangaeru(1)","かんがえる(1)","verb"});
+			lektion26.add(new String[]{"suchen","sagasu(5)","さがす(5)","verb"});
+			lektion26.add(new String[]{"aufstehen","tatsu(5)","たつ(5)","verb"});
 		vocab.add(lektion26);
 
 		ArrayList<String[]> lektion27 = new ArrayList<String[]>();
+			lektion27.add(new String[]{"Umschlag","fuutou","ふうとう","nomen"});
+			lektion27.add(new String[]{"Mitbringsel, Souvenir","omiyage","おみやげ","nomen"});
+			lektion27.add(new String[]{"gegenüber, >>drüben<<","mukou","むこう","adjektiv"});
+			lektion27.add(new String[]{"Bank (Geldinstitut)","ginkou","ぎん行","nomen"});
+			lektion27.add(new String[]{"High School (10.-12. Schuljahr)","koukou","高校","nomen"});
+			lektion27.add(new String[]{"Schüler der High School","koukousei","高校生","nomen"});
+			lektion27.add(new String[]{"Wörterbuch","jibiki","じびき","nomen"});
+			lektion27.add(new String[]{"Beginn, Anfang","hajime","はじめ","nomen"});
+			lektion27.add(new String[]{"ZEW für Wochen","juukan","じゅうかん","nomen"});
+			lektion27.add(new String[]{"Flughafen","kuukou","くうこう","nomen"});
+			lektion27.add(new String[]{"Elektron, elektronisch","denshi","電子","nomen"});
+			lektion27.add(new String[]{"anrufen","denwa o kakeru(1)","電話を かける(1)","verb"});
+			lektion27.add(new String[]{"Flugzeug","hikouki","ひ行き","nomen"});
+			lektion27.add(new String[]{"Sohn","musuko","むす子","nomen"});
+			lektion27.add(new String[]{"1.(etw.) zuschicken 2.(zum Abschied) begleiten","okuru(5)","おくる(5)","nomen"});
+			lektion27.add(new String[]{"hineintun","ireru(1)","いれる(1)","verb"});
+			lektion27.add(new String[]{"hinaustun; abschicken","dasu(5)","だす(5)","verb"});
+			lektion27.add(new String[]{"arbeiten","hataraku(5)","はたらく(5)","verb"});
+			lektion27.add(new String[]{"aufbrechen, abfahren/fliegen","juppatsu suru","じゅっぱつ する","adjektiv"});
+			lektion27.add(new String[]{"aufgeregt / angespannt werden","kinchou suru","きんちょう する","adjektiv"});
 		vocab.add(lektion27);
-
 		ArrayList<String[]> lektion28 = new ArrayList<String[]>();
+			lektion28.add(new String[]{"Fenster","mado","まど","nomen"});
+			lektion28.add(new String[]{"...-Seite","...gawa","...がわ","nomen"});
+			lektion28.add(new String[]{"Stuhl","isu","いす","nomen"});
+			lektion28.add(new String[]{"Bildschirm","gamen","がめん","nomen"});
+			lektion28.add(new String[]{"Mann (=男の人)","dansei","男せい","nomen"});
+			lektion28.add(new String[]{"er","kare","かれ","adjektiv"});
+			lektion28.add(new String[]{"auch: während, Zwischenzeit","aida","間","nomen"});
+			lektion28.add(new String[]{"Stewardess","suchuwa-desu","すちゅわ-です","nomen"});
+			lektion28.add(new String[]{"Pilot","pairotto","ぱいろっと","nomen"});
+			lektion28.add(new String[]{"Osaka Kansai Airport","kansaikuukou","かんさいくうこう","nomen"});
+			lektion28.add(new String[]{"Visitenkarte","meishi","めいし","nomen"});
+			lektion28.add(new String[]{"Land","kuni","国","nomen"});
+			lektion28.add(new String[]{"endlich","yatto","やっと","adjektiv"});
+			lektion28.add(new String[]{"ungefähr","gurai","ぐらい","adjektiv"});
+			lektion28.add(new String[]{"freundlich","shinsetsu(na)","しんせつ(な)","adjektiv"});
+			lektion28.add(new String[]{"laut, lärmend","urusai","うるさい","adjektiv"});
+			lektion28.add(new String[]{"dunkel","kurai","くらい","adjektiv"});
+			lektion28.add(new String[]{"umsteigen","norikaeru(1)","のりかえる(1)","verb"});
+			lektion28.add(new String[]{"(aus)wählen","erabu(5)","えらぶ(5)","verb"});
+			lektion28.add(new String[]{"überreichen, übergeben","watasu(5)","わたす(5)","verb"});
+			lektion28.add(new String[]{"enden, aufhören","owaru(5)","おわる(5)","verb"});
+			lektion28.add(new String[]{"denken, meinen, finden","omou","おもう","adjektiv"});
 		vocab.add(lektion28);
 
 		ArrayList<String[]> lektion29 = new ArrayList<String[]>();
+			lektion29.add(new String[]{"Gepäck; Paket","nimotsu","にもつ","nomen"});
+			lektion29.add(new String[]{"Ausgang, Ausfahrt","deguchi","出口","nomen"});
+			lektion29.add(new String[]{"Fahne, Flagge","hata","はた","nomen"});
+			lektion29.add(new String[]{"Sinn, Bedeutung","imi","いみ","nomen"});
+			lektion29.add(new String[]{"Begrüßung","aisatsu","あいさつ","nomen"});
+			lektion29.add(new String[]{"grüßen, begrüßen","(...ni) aisatsu o suru","(...に) あいさつをする","adjektiv"});
+			lektion29.add(new String[]{"Erklärung","setsumei","せつめい","nomen"});
+			lektion29.add(new String[]{"erklären","setumei suru","せtうめい する","adjektiv"});
+			lektion29.add(new String[]{"Stimme","koe","こえ","nomen"});
+			lektion29.add(new String[]{"laute Stimme","daikiikoe","だいきいこえ","nomen"});
+			lektion29.add(new String[]{"Dialekt","hougen","ほう言","nomen"});
+			lektion29.add(new String[]{"gut, geschickt","jouzu (na)","上手(な)","adjektiv"});
+			lektion29.add(new String[]{"mitteilen, informieren","shichiseru(1)","しちせる(1)","verb"});
+			lektion29.add(new String[]{"schlecht, ungeschickt","heta (na)","下手(な)","adjektiv"});
+			lektion29.add(new String[]{"erschöpft/müde werden","tsukareru(1)","つかれる(1)","verb"});
+			lektion29.add(new String[]{"erschöpft/müde sein","tsukarete iru","つかれて いる","adjektiv"});
+			lektion29.add(new String[]{"freundlich lächeln","niinii suru","にいにい する","adjektiv"});
+			lektion29.add(new String[]{"lachen","warau(5)","わらう(5)","verb"});
+			lektion29.add(new String[]{"sich wenden (nach), sich bewegen (zu)","mukau(5)","むかう(5)","verb"});
 		vocab.add(lektion29);
 
 		ArrayList<String[]> lektion30 = new ArrayList<String[]>();
@@ -584,7 +658,7 @@ public class Vocab{
 	}
 	
 	private void initializeVocabAsKanji(){
-				ArrayList<String[]> lektion11 = new ArrayList<String[]>();
+		ArrayList<String[]> lektion11 = new ArrayList<String[]>();
 			lektion11.add(new String[]{"日","Sonne; Tag","hi","NICHI, JITSU"});
 			lektion11.add(new String[]{"本","Ursprung; Buch","moto","HON"});
 			lektion11.add(new String[]{"人","Person, Mensch","hito","JIN, NIN"});
@@ -675,80 +749,113 @@ public class Vocab{
 			vocab.add(lektion25);
 
 			ArrayList<String[]> lektion26 = new ArrayList<String[]>();
+			lektion26.add(new String[]{"上","oben, über","ue","JOU"});
+			lektion26.add(new String[]{"下","unten, unter","shita","KA"});
+			lektion26.add(new String[]{"間","Zwischenraum, zwischen","aida","KAN"});
 			vocab.add(lektion26);
 
 			ArrayList<String[]> lektion27 = new ArrayList<String[]>();
+			lektion27.add(new String[]{"前","vorne, vor","mae","ZEN"});
+			lektion27.add(new String[]{"後","hinten, hinter, später","ushi(ro), ato","GO, KOU"});
+			lektion27.add(new String[]{"校","Schule","--","KOU"});
 			vocab.add(lektion27);
 
 			ArrayList<String[]> lektion28 = new ArrayList<String[]>();
+			lektion28.add(new String[]{"外","außen, draußen","soto","GAI"});
+			lektion28.add(new String[]{"国","Land, Staat","kuni","KOKU"});
+			lektion28.add(new String[]{"言","sagen","i(u)","GEN"});
 			vocab.add(lektion28);
 
 			ArrayList<String[]> lektion29 = new ArrayList<String[]>();
+			lektion29.add(new String[]{"出","hinausgehen, hinaustun","de(ru), da(su)","SHUTSU"});
+			lektion29.add(new String[]{"口","Mund, Öffnung","kuchi","KOU"});
+			lektion29.add(new String[]{"手","Hand","te","SHU"});
 			vocab.add(lektion29);
 
 			ArrayList<String[]> lektion30 = new ArrayList<String[]>();
+			lektion30.add(new String[]{"一","ein, eins","hito(tsu), hito(ri)","ICHI"});
+			lektion30.add(new String[]{"山","Berg","yama","SAN"});
+			lektion30.add(new String[]{"入","eintreten; hineintun","hai(ru), i(reru)","NYUU"});
 			vocab.add(lektion30);
 
-			ArrayList<String[]> lektion31 = new ArrayList<String[]>();
-			vocab.add(lektion31);
-
-			ArrayList<String[]> lektion32 = new ArrayList<String[]>();
-			vocab.add(lektion32);
-
-			ArrayList<String[]> lektion33 = new ArrayList<String[]>();
-			vocab.add(lektion33);
-
-			ArrayList<String[]> lektion34 = new ArrayList<String[]>();
-			vocab.add(lektion34);
-
-			ArrayList<String[]> lektion35 = new ArrayList<String[]>();
-			vocab.add(lektion35);
-
-			ArrayList<String[]> lektion36 = new ArrayList<String[]>();
-			vocab.add(lektion36);
-
-			ArrayList<String[]> lektion37 = new ArrayList<String[]>();
-			vocab.add(lektion37);
-
-			ArrayList<String[]> lektion38 = new ArrayList<String[]>();
-			vocab.add(lektion38);
-
-			ArrayList<String[]> lektion39 = new ArrayList<String[]>();
-			vocab.add(lektion39);
-
 			ArrayList<String[]> lektion40 = new ArrayList<String[]>();
+			lektion40.add(new String[]{"二","zwei","futa(tsu), futa(ri), futsu(ka)","NI"});
+			lektion40.add(new String[]{"四","vier","yot(tsu), yok(ka)","SHI, YON, YO-"});
+			lektion40.add(new String[]{"十","zehn","too, too(ka)","JUU"});
 			vocab.add(lektion40);
 
 			ArrayList<String[]> lektion41 = new ArrayList<String[]>();
+			lektion41.add(new String[]{"空","leer; freimachen; Himmel","kara (no), a(keru), a(ku), sora","KUU"});
+			lektion41.add(new String[]{"私","ich; privat","watashi","SHI"});
+			lektion41.add(new String[]{"百","hundert","--","HYAKU"});
 			vocab.add(lektion41);
 
 			ArrayList<String[]> lektion42 = new ArrayList<String[]>();
+			lektion42.add(new String[]{"南","Süden","minami","NAN"});
+			lektion42.add(new String[]{"北","Norde","kita","HOKU"});
+			lektion42.add(new String[]{"東","Osten","higashi","TOU"});
+			lektion42.add(new String[]{"西","Westen","nishi","SEI, SAI"});
 			vocab.add(lektion42);
 
 			ArrayList<String[]> lektion43 = new ArrayList<String[]>();
+			lektion43.add(new String[]{"父","Vater","chichi, (o-)tou(-san)","FU"});
+			lektion43.add(new String[]{"母","Mutter","haha, (o-)kaa(-san)","BO"});
+			lektion43.add(new String[]{"立","aufstehen, stehen","ta(tsu)","RITSU"});
+			lektion43.add(new String[]{"金","Gold; Geld; Metall","(o-)kane","KIN"});
 			vocab.add(lektion43);
 
 			ArrayList<String[]> lektion44 = new ArrayList<String[]>();
+			lektion44.add(new String[]{"五","fünf","itsu(tsu), itsu(ka)","GO"});
+			lektion44.add(new String[]{"千","tausend","--","SEN"});
+			lektion44.add(new String[]{"円","rund, Kreis; Yen","maru(i)","EN"});
+			lektion44.add(new String[]{"新","neu","atara(shii)","SHIN"});
 			vocab.add(lektion44);
 
 			ArrayList<String[]> lektion45 = new ArrayList<String[]>();
+			lektion45.add(new String[]{"週","Woche","--","SHUU"});
+			lektion45.add(new String[]{"友","Freund","tomo","YUU"});
+			lektion45.add(new String[]{"右","rechts","migi","U"});
+			lektion45.add(new String[]{"左","links","hidari","SA"});
 			vocab.add(lektion45);
 
 			ArrayList<String[]> lektion46 = new ArrayList<String[]>();
+			lektion46.add(new String[]{"三","drei","mit(tsu), mik(ka)","SAN"});
+			lektion46.add(new String[]{"川","Fluss","kawa","SEN"});
+			lektion46.add(new String[]{"目","Auge, ...ste(r,s)","me","MOKU"});
+			lektion46.add(new String[]{"道","Weg","michi","DOU"});
+			lektion46.add(new String[]{"駅","Bahnhof","--","EKI"});
 			vocab.add(lektion46);
 
 			ArrayList<String[]> lektion47 = new ArrayList<String[]>();
+			lektion47.add(new String[]{"飲","trinken","no(mu)","IN"});
+			lektion47.add(new String[]{"土","Erde","tsuchi","DO"});
+			lektion47.add(new String[]{"毎","jedes ...","--","MAI"});
+			lektion47.add(new String[]{"年","Jahr; Lebensalter","toshi","NEN"});
+			lektion47.add(new String[]{"名","Name, Ruf","na","MEI"});
 			vocab.add(lektion47);
 
 			ArrayList<String[]> lektion48 = new ArrayList<String[]>();
+			lektion48.add(new String[]{"六","sechs","mut(tsu), mui(ka)","ROKU"});
+			lektion48.add(new String[]{"七","sieben","nana(tsu), nano(ka)","SHICHI, NANA"});
+			lektion48.add(new String[]{"八","acht","yat(tsu), you(ka)","HACHI"});
+			lektion48.add(new String[]{"九","neun","kokono(tsu), kokono(ka)","KYUU, KU"});
+			lektion48.add(new String[]{"社","Schrein, Gesellschaft","--","SHA"});
 			vocab.add(lektion48);
 
 			ArrayList<String[]> lektion49 = new ArrayList<String[]>();
+			lektion49.add(new String[]{"読","lesen","yo(mu)","DOKU"});
+			lektion49.add(new String[]{"書","schreiben, Schriftstück","ka(ku)","SHO"});
+			lektion49.add(new String[]{"万","zehntausend","--","MAN"});
+			lektion49.add(new String[]{"長lang(e); Direktor","naga(i)","CHOU"});
 			vocab.add(lektion49);
 
 			ArrayList<String[]> lektion50 = new ArrayList<String[]>();
+			lektion50.add(new String[]{"足","Fuß; Bein","ashi","SOKU"});
+			lektion50.add(new String[]{"耳","Ohr","mimi","JI"});
+			lektion50.add(new String[]{"魚","Fisch","sakana","GYO"});
+			lektion50.add(new String[]{"半","halb, Hälfte","--","HAN"});
 			vocab.add(lektion50);
-
+		
 	}
 	
 	public String[][] getVocabList(boolean[] selection){

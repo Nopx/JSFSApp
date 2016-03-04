@@ -147,25 +147,16 @@ public class KanjiQuiz extends Activity
 		lektionen[17] = sharedPref.getBoolean("pref_KanjiLektion28",false);
 		lektionen[18] = sharedPref.getBoolean("pref_KanjiLektion29",false);
 		lektionen[19] = sharedPref.getBoolean("pref_KanjiLektion30",false);
-		lektionen[20] = sharedPref.getBoolean("pref_KanjiLektion31",false);
-		lektionen[21] = sharedPref.getBoolean("pref_KanjiLektion32",false);
-		lektionen[22] = sharedPref.getBoolean("pref_KanjiLektion33",false);
-		lektionen[23] = sharedPref.getBoolean("pref_KanjiLektion34",false);
-		lektionen[24] = sharedPref.getBoolean("pref_KanjiLektion35",false);
-		lektionen[25] = sharedPref.getBoolean("pref_KanjiLektion36",false);
-		lektionen[26] = sharedPref.getBoolean("pref_KanjiLektion37",false);
-		lektionen[27] = sharedPref.getBoolean("pref_KanjiLektion38",false);
-		lektionen[28] = sharedPref.getBoolean("pref_KanjiLektion39",false);
-		lektionen[29] = sharedPref.getBoolean("pref_KanjiLektion40",false);
-		lektionen[30] = sharedPref.getBoolean("pref_KanjiLektion41",false);
-		lektionen[31] = sharedPref.getBoolean("pref_KanjiLektion42",false);
-		lektionen[32] = sharedPref.getBoolean("pref_KanjiLektion43",false);
-		lektionen[33] = sharedPref.getBoolean("pref_KanjiLektion44",false);
-		lektionen[34] = sharedPref.getBoolean("pref_KanjiLektion45",false);
-		lektionen[35] = sharedPref.getBoolean("pref_KanjiLektion46",false);
-		lektionen[36] = sharedPref.getBoolean("pref_KanjiLektion47",false);
-		lektionen[37] = sharedPref.getBoolean("pref_KanjiLektion48",false);
-		lektionen[38] = sharedPref.getBoolean("pref_KanjiLektion49",false);
-		lektionen[39] = sharedPref.getBoolean("pref_KanjiLektion50",false);
+		lektionen[20] = sharedPref.getBoolean("pref_KanjiLektion40",false);
+		lektionen[21] = sharedPref.getBoolean("pref_KanjiLektion41",false);
+		lektionen[22] = sharedPref.getBoolean("pref_KanjiLektion42",false);
+		lektionen[23] = sharedPref.getBoolean("pref_KanjiLektion43",false);
+		lektionen[24] = sharedPref.getBoolean("pref_KanjiLektion44",false);
+		lektionen[25] = sharedPref.getBoolean("pref_KanjiLektion45",false);
+		lektionen[26] = sharedPref.getBoolean("pref_KanjiLektion46",false);
+		lektionen[27] = sharedPref.getBoolean("pref_KanjiLektion47",false);
+		lektionen[28] = sharedPref.getBoolean("pref_KanjiLektion48",false);
+		lektionen[29] = sharedPref.getBoolean("pref_KanjiLektion49",false);
+		lektionen[30] = sharedPref.getBoolean("pref_KanjiLektion50",false);
 	}
 }

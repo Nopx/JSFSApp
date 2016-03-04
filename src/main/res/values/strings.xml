@@ -13,9 +13,6 @@
     
     <string name="kanjiQuizBtn_string">KanjiQuiz</string>
     
-    <string name="CorrectAnswer">Richtig</string>
-    <string name="WrongAnswer">Falsch</string>
-    
     <string name="quizname1">japGer</string>
     <string name="quizname2">gerJap</string>
     <string name="quizname3">hirGer</string>
